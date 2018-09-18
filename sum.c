@@ -11,6 +11,8 @@ int main()
 
         f3=i;
     else
+    {
+
 
 
         f3=f1+f2;
@@ -20,5 +22,5 @@ int main()
      }
      }
     printf("fibonacci series are %d\n",f3);
-    return 0;
+  return 0;
 }
